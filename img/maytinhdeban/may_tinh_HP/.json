@@ -1,0 +1,96 @@
+[
+{
+  "title": "Máy tính để bàn HP 280 Pro G6",
+    "specs": [
+      "CPU: Intel Core i3-10100 3.60 GHz",
+      "Card đồ họa: Intel UHD Graphics ",
+      "RAM :  4GB DDR4-2666 SDRAM",
+      "Ổ cứng:  1TB 7200 rpm SATA HDD "
+    ],
+    "price": 9990000,
+    "oldPrice": 10690000,
+    "discountPercentage": 10,
+    "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+    "stock": 8,
+    "category": "Máy tính HP",
+    "description": {  
+    "overview": "Máy tính bàn HP 280 Pro G6 được trang bị chip Intel Core i3 thế hệ thứ 10 mạnh mẽ, hiện đại. Với tốc độ xử lý dữ liệu nhanh chóng vượt trội nhất. Cùng với đó là 4GB RAM DDR4-2666 MHz đa nhiệm ổn định, hạn chế giật lag tiết kiệm điện năng. Đáp ứng mọi nhu cầu làm việc cao cấp hơn của bạn"
+    }
+  },
+
+  {
+    "title": "Máy tính để bàn HP AIO EliteOne 870 G9 76N83PA",
+      "specs": [
+        "CPU: Intel Core i5-12500",
+        "Card đồ họa: UHD Intel 770",
+        "RAM : 8 GB DDR5-4800 MHz",
+        "Ổ cứng: 512 GB  SSD "
+      ],
+      "price": 33990000,
+      "oldPrice": 30690000,
+      "discountPercentage": 13,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Máy tính HP",
+      "description": {
+      "overview": "Cấu hình mạnh mẽ\nHãng đã trang bị cho HP AIO EliteOne 870 G9 76N83PA một cấu hình mạnh mẽ với Intel Core i5-12500 giúp xử lý mọi tác vụ nhanh chóng, rút ngắn thời gian chờ đợi cho bạn. Với CPU này, người dùng có thể thực hiện mượt mà các công việc thiết kế đồ họa trên các phần mềm của Adobe như Photoshop, AI hay Indesign, hay chơi game giải trí cũng không gặp trở ngại gì!"
+      }
+    },
+
+    {
+      "title": "Máy tính để bàn HP AIO ProOne 440 G9 8W8L1PA",
+        "specs": [
+          "CPU: Intel Core i7 13700T",
+          "Card đồ họa: VGA onboard",
+          "RAM : 16 GB DDR4-3200 MHz",
+          "Ổ cứng: 512 GB  SSD "
+        ],
+        "price": 23990000,
+        "oldPrice": 25690000,
+        "discountPercentage": 10,
+        "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+        "stock": 8,
+        "category": "Máy tính HP",
+        "description": {
+        "overview": "Hiệu năng\nĐược trang bị bộ vi xử lý Intel Core i7 13700T với 16 nhân, 24 luồng, tốc độ tối đa lên tới 4.90 GHz và bộ nhớ đệm 30MB, HP AIO ProOne 440 G9 đáp ứng mượt mà mọi nhu cầu từ công việc văn phòng đến các tác vụ đa nhiệm phức tạp. Bộ nhớ RAM 16GB DDR4 3200 giúp xử lý các ứng dụng nhanh chóng và hiệu quả, đồng thời ổ cứng SSD PCIe® NVMe 512GB cung cấp không gian lưu trữ lớn cùng tốc độ truy xuất dữ liệu vượt trội.\n\nĐồ họa và âm thanh\nCard đồ họa VGA onboard đảm bảo khả năng xử lý hình ảnh và video mượt mà, phù hợp với các nhu cầu làm việc và giải trí thông thường. Màn hình chống chói giúp giảm thiểu mỏi mắt khi làm việc lâu dưới ánh sáng mạnh."
+      }
+    },
+
+    {
+      "title": "Máy tính để bàn HP Pavilion TP01",
+        "specs": [
+          "CPU: Intel Core i7 10700",
+          "Card đồ họa: Intel UHD Graphics 630",
+          "RAM : 8 GB DDR4-2933 SDRAM",
+          "Ổ cứng: 512 GB  SSD "    
+        ],
+        "price": 23990000,
+        "oldPrice": 25690000,
+        "discountPercentage": 10,
+        "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+        "stock": 8,
+        "category": "Máy tính HP",
+        "description": {
+        "overview": "Hiệu năng\nĐược trang bị bộ vi xử lý Intel Core i7 10700 với 16 nhân, 24 luồng, tốc độ tối đa lên tới 4.90 GHz và bộ nhớ đệm 30MB, HP AIO ProOne 440 G9 đáp ứng mượt mà mọi nhu cầu từ công việc văn phòng đến các tác vụ đa nhiệm phức tạp. Bộ nhớ RAM 16GB DDR4 3200 giúp xử lý các ứng dụng nhanh chóng và hiệu quả, đồng thời ổ cứng SSD PCIe® NVMe 512GB cung cấp không gian lưu trữ lớn cùng tốc độ truy xuất dữ liệu vượt trội.\n\nĐồ họa và âm thanh\nCard đồ họa VGA onboard đảm bảo khả năng xử lý hình ảnh và video mượt mà, phù hợp với các nhu cầu làm việc và giải trí thông thường. Màn hình chống chói giúp giảm thiểu mỏi mắt khi làm việc lâu dưới ánh sáng mạnh."     
+        }
+    },
+
+    {
+      "title": "Máy tính để bàn HP Pro Tower 280 G9",
+        "specs": [
+          "CPU: Intel® Core™ i5-12500",
+          "Card đồ họa: Intel UHD Graphics 770",
+          "RAM : 8 GB DDR4",
+          "Ổ cứng: 256 GB SSD "    
+        ],
+        "price": 23990000,
+        "oldPrice": 25690000,
+        "discountPercentage": 10,
+        "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+        "stock": 8,
+        "category": "Máy tính HP",
+        "description": {
+        "overview": "Hiệu năng\nĐược trang bị bộ vi xử lý Intel Core i7 10700 với 16 nhân, 24 luồng, tốc độ tối đa lên tới 4.90 GHz và bộ nhớ đệm 30MB, HP AIO ProOne 440 G9 đáp ứng mượt mà mọi nhu cầu từ công việc văn phòng đến các tác vụ đa nhiệm phức tạp. Bộ nhớ RAM 16GB DDR4 3200 giúp xử lý các ứng dụng nhanh chóng và hiệu quả, đồng thời ổ cứng SSD PCIe® NVMe 512GB cung cấp không gian lưu trữ lớn cùng tốc độ truy xuất dữ liệu vượt trội.\n\nĐồ họa và âm thanh\nCard đồ họa VGA onboard đảm bảo khả năng xử lý hình ảnh và video mượt mà, phù hợp với các nhu cầu làm việc và giải trí thông thường. Màn hình chống chói giúp giảm thiểu mỏi mắt khi làm việc lâu dưới ánh sáng mạnh."     
+        }
+    }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Máy tính đồ họa Core Ultra 9 285K ",
+      "specs": [
+        "CPU: Intel Core Ultra 9 285K (Up 5.7 GHz, 24 Nhân 24 Luồng, Arrow Lake-S)",
+        "Card đồ họa: ASUS TUF RTX 4070 Ti SUPER 16GB GDDR6X OC Edition",
+        "RAM : CORSAIR VENGEANCE RGB 32GB (2x16GB) DDR5 bus 6000MHz Black",
+        "Ổ cứng: Kioxia Exceria Plus G3 Gen 4x4 1TB "    
+      ],
+      "price": 60590000,
+      "oldPrice": 60590000,
+      "discountPercentage": 0,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Máy tính chơi game",
+      "description": {
+      "overview": "CPU Intel Core Ultra 9 285K dựa trên kiến trúc Arrow Lake-S thế hệ mới, cùng với RAM 32GB DDR5 RGB và card đồ họa RTX 4070 Ti Super. Với hiệu suất mạnh mẽ và khả năng xử lý đa nhiệm linh hoạt, bộ linh kiện này chắc chắn sẽ mang lại trải nghiệm tuyệt vời, đáp ứng tất cả nhu cầu từ chơi game cho đến sáng tạo nội dung."     
+      }
+  },
+
+  {
+    "title": "Máy tính đồ họa NCPC ",
+      "specs": [
+        "CPU: Intel Core i9-13900K ",
+        "Card đồ họa: GALAX RTX 3080 SG (1-Click OC) 12GB",
+        "RAM : Kingston FURY Beast RGB 32GB (2x16GB) DDR5 bus 5200Mhz",
+        "Ổ cứng: Samsung 980 PRO 1TB PCIe 4.0 M.2 NVMe "    
+      ],
+      "price": 64590000,
+      "oldPrice": 64590000,
+      "discountPercentage": 0,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Máy tính chơi game",
+      "description": {
+      "overview": "Ngoài việc có nhiều lõi hơn so với người tiền nhiệm của nó, Core i9-13900K cũng đi kèm với nhiều luồng hơn, ở mức 24 nhân và 32 luồng so với chỉ 16 nhân và 24 luồng có trên Core i9-12900K.\nViệc có số luồng nhiều hơn đồng nghĩa với việc là CPU của bạn có thể xử lý nhiều thứ hơn cùng một lúc, do đó, có nhiều luồng hơn cho phép nhiều quy trình được chạy cùng một lúc, điều này cũng giúp cải thiện hiệu suất trong các tác vụ đa luồng. Các tác vụ đa luồng bao gồm bất kỳ thứ gì yêu cầu xử lý nhiều hoạt động cùng một lúc, vì PC của bạn cần phải tiếp nhận nhiều thông tin cùng một lúc để nó hoạt động trơn tru."     
+      }
+  },
+
+  {
+    "title": "Máy tính PV Gaming Cupid M004",
+      "specs": [
+        "CPU: Intel Core i5 12400F ",
+        "Card đồ họa: CPU Intel Core i5 12400F",
+        "RAM : 6GB 3200 (1 x 16GB) DDR4 3200MHz",
+        "Ổ cứng: Adata LEGEND 710 512GB M.2 NVMe Gen3 X4 "    
+      ],
+      "price": 17590000,
+      "oldPrice": 19590000,
+      "discountPercentage": 10,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Máy tính chơi game",
+      "description": {
+      "overview": "PC PV Gaming Cupid M004 Intel Core i5-12400F là một bộ PC gaming mạnh mẽ, sở hữu cấu hình tối ưu cho hiệu suất cao. Máy tính để bàn này được trang bị CPU Intel Core i5-12400F với 6 nhân 12 luồng, xung nhịp tối đa 4.4GHz, kết hợp cùng RAM 16GB DDR4 3200MHz và SSD 512GB NVMe Gen3 x4 cho tốc độ xử lý nhanh chóng. Hệ thống sử dụng mainboard MSI PRO B760M-P DDR4, card đồ họa MSI GeForce RTX 3060 VENTUS 2X 12G OC, cùng nguồn MSI MAG A650BN 650W 80 Plus Bronze. Với case MSI MAG FORCE M100A 4 fan RGB, PC này đảm bảo hiệu suất gaming và khả năng nâng cấp linh hoạt."     
+      }
+  },
+
+  {
+    "title": "Máy tính Gaming PV Zeus H001",
+      "specs": [
+        "CPU: Intel Core Ultra 9 285K ",
+        "Card đồ họa: ASUS ROG Astral GeForce RTX™ 5090 32GB GDDR7 OC Edition",
+        "RAM : Corsair 64GB (2 x 32GB) DDR5 6000MHz",
+        "Ổ cứng: Samsung 990 Pro 1TB M2 PCIe 4.0 "    
+      ],
+      "price": 189990000,
+      "oldPrice": 2290000000,
+      "discountPercentage": 17,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Máy tính chơi game",
+      "description": {
+      "overview": "PC Gaming PV Zeus H001 sẽ là gợi ý hoàn hảo dành cho các game thủ và người dùng chuyên nghiệp. Với bộ vi xử lý Ultra 9 285K mạnh mẽ, kết hợp cùng card đồ họa RTX 5090 tiên tiến, PC PV mang đến trải nghiệm chơi game đỉnh cao, xử lý mượt mà mọi tác vụ đồ họa nặng. Hệ thống RAM 64GB (2x32GB) và ổ cứng 1TB SSD đảm bảo khả năng đa nhiệm vượt trội, tối ưu tốc độ. Nếu bạn đang tìm kiếm một cỗ máy chiến game mạnh mẽ, bền bỉ, PV Zeus H001 chắc chắn sẽ không làm game thủ thất vọng!"     
+      }
+  },
+
+  {
+    "title": "Máy tính Gaming PV Apollo E007",
+      "specs": [
+        "CPU: Intel Core i3 12100F ",
+        "Card đồ họa: ASUS Dual Radeon™ RX 6500 XT OC Edition ",
+        "RAM : ADATA XPG D35 8GB DDR4 3200Mhz",
+        "Ổ cứng: WD Green SN350 500GB M.2 2280, PCIE NVME Gen 3x4 "    
+      ],
+      "price": 9790000,
+      "oldPrice": 10990000,
+      "discountPercentage": 11,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Máy tính chơi game",
+      "description": {
+      "overview": "PC PV Gaming Apollo E007 Intel Core i3-12100F là gợi ý lựa chọn hoàn hảo cho những game thủ đang tìm kiếm một bộ PC mạnh mẽ. Sản phẩm này được trang bị Intel Core i3-12100F, card đồ họa rời và SSD tốc độ cao, mang đến trải nghiệm gaming tuyệt vời với hiệu suất tối ưu. Hệ thống đi kèm với card đồ họa rời, mang đến khả năng xử lý đồ họa mạnh mẽ, giúp bạn chơi các tựa game phổ biến tối ưu. Hãy cùng khám phá những đặc điểm nổi bật của loại máy tính bàn qua thông tin chi tiết dưới đây nhé!"     
+      }
+  }
+]

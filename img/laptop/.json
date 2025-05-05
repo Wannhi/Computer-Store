@@ -1,0 +1,606 @@
+[
+    {
+        "title": "Dell Vostro 3520",
+        "specs": [
+            "CPU: Intel Core i3-1215U (6 Cores / 8 Threads, up to 4.40GHz, 10MB Intel Smart Cache)",
+            "RAM: 16GB DDR4 2666MHz (2x8GB)",
+            "SSD: 512GB M.2 PCIe NVMe",
+            "GPU: Intel UHD Graphics",
+            "Display: 15.6-inch FHD (1920x1080), IPS, 250 nits, 120Hz, 45% NTSC, Anti-glare, 35ms",
+            "Battery: 3-cell 41Wh lithium-polymer",
+            "Weight: 1.66 kg",
+            "Color: Carbon Black",
+            "OS: Windows bản quyền"
+        ],
+        "price": 9500000,
+        "oldPrice": null,
+        "discountPercentage":null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Dell",
+        "description": {
+            "overview": "Dell Vostro 15 3520 Core i3-1215U | RAM 16GB | SSD 512GB | 15.6 inch FHD (1920x1080) 120Hz | Carbon Black | New Fullbox là một chiếc laptop nổi bật trong phân khúc laptop văn phòng với sự kết hợp hoàn hảo giữa thiết kế tinh tế, hiệu năng mạnh mẽ và tính năng kết nối đa dạng. Với bộ vi xử lý Intel Core i3-1215U, RAM 16GB và ổ cứng 512GB SSD, sản phẩm này hứa hẹn không chỉ đáp ứng tốt nhu cầu làm việc hàng ngày mà còn mang lại trải nghiệm giải trí mượt mà."
+        }
+    },
+    {
+        "title": "Dell G15 5530",
+        "specs": [
+            "CPU: Intel Core i7-13650HX (14 nhân / 20 luồng, Upto 4.90 GHz)",
+            "RAM: 16GB DDR5 4800MHz (2x8GB) - Hỗ trợ tối đa 64GB",
+            "SSD: 1TB M.2 PCIe",
+            "GPU: NVIDIA GeForce RTX 4060 8GB GDDR6",
+            "Display: 15.6 inch FHD (1920x1080), WVA, 165Hz, 100% sRGB",
+            "OS: Windows 11",
+            "Weight: 2.81 kg",
+            "Tình trạng: New 100% Fullbox",
+            "Bảo hành: 12 tháng"
+        ],
+        "price": 27300000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Dell",
+        "description": {
+            "overview": "Dell G15 5530 Core i7-13650HX | RAM 16GB | SSD 1TB | RTX 4060 8GB | 15.6 inch FHD 165Hz | New Fullbox là một trong những chiếc laptop gaming hàng đầu của hãng Dell, đem đến sự kết hợp hoàn hảo giữa hiệu suất mạnh mẽ và thiết kế ấn tượng. Với sức mạnh của bộ vi xử lý Intel Core i7, card đồ họa NVIDIA GeForce RTX và nhiều tính năng ưu việt khác, chiếc máy tính này hứa hẹn sẽ là người bạn đồng hành hoàn hảo cho cả công việc và giải trí."
+        }
+    },
+    {
+        "title": "Dell Inspiron 14 Plus 7440",
+        "specs": [
+            "CPU: Intel Core i7-13620H (10 Cores / 16 Threads, Up to 4.90 GHz, 24MB Cache)",
+            "RAM: 16GB LPDDR5 4800MHz (Onboard)",
+            "SSD: 1TB M.2 PCIe NVMe",
+            "GPU: Intel UHD Graphics",
+            "Display: 14 inch 2.2K (2240x1400), IPS, WVA, 60Hz, Anti-Glare, 300 nits, ComfortView Plus",
+            "OS: Windows 11 Home bản quyền",
+            "Color: Ice Blue",
+            "Tình trạng: New 100% Fullbox",
+            "Bảo hành: 12 Tháng"
+        ],
+        "price": 18800000,
+        "oldPrice": 20500000,
+        "discountPercentage": 8,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Dell",
+        "description": {
+            "overview": "Dell Inspiron 7440 Plus là mẫu laptop tầm trung cao cấp thuộc dòng Inspiron, được thiết kế dành riêng cho nhân viên văn phòng, sinh viên và người dùng phổ thông. Với cấu hình mạnh mẽ, chiếc laptop này đảm bảo hiệu năng mượt mà cho các tác vụ đa nhiệm và công việc hàng ngày, ngoài ra còn nhận được nhiều đánh giá tích cực từ người dùng nhờ sự kết hợp hoàn hảo giữa thiết kế, hiệu năng và giá trị"
+        }
+    },
+    {
+        "title": "Dell XPS 13 Plus 9350 (2025)",
+        "specs": [
+            "CPU: Intel Core Ultra 7 256V (8 Cores, 12MB Cache, Up to 4.8 GHz), Intel AI Boost NPU",
+            "RAM: 16GB LPDDR5x Dual Channel 8533 MT/s",
+            "SSD: 512GB PCIe 4.0 SSD",
+            "GPU: Intel Arc Graphics",
+            "Display: 13.4 inch FHD+ (1920x1200), 500-nit, 100% sRGB, 120Hz, Dolby Vision, Eyesafe, Anti-glare",
+            "Battery: 55Whr",
+            "Weight: 1.22 kg",
+            "OS: Windows 11 Home bản quyền",
+            "Color: Graphite",
+            "Tình trạng: New Fullbox 100%",
+            "Bảo hành: 12 tháng"
+        ],
+        "price": 31500000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Dell",
+        "description": {
+            "overview": "Dell XPS 13 Plus 9350 (2025) là một trong những mẫu laptop cao cấp mới nhất của Dell, tiếp tục khẳng định vị thế của dòng XPS trong phân khúc ultrabook với thiết kế sang trọng, hiệu năng mạnh mẽ và những cải tiến đáng kể so với các thế hệ trước. Trong bài viết này, chúng ta sẽ cùng khám phá chi tiết về chiếc laptop này với cấu hình cụ thể: Intel Core Ultra 7 256V, RAM 16GB, SSD 512GB, màn hình 13.4 inch FHD+, màu Graphite, phiên bản mới nguyên hộp 100%. Đây là một sản phẩm hứa hẹn mang đến trải nghiệm tuyệt vời cho cả công việc lẫn giải trí."
+        }
+    },
+    {
+        "title": "Dell Inspiron 16 Plus 7630",
+        "specs": [
+          "CPU: Intel Core i5-13420H (8 Cores / 12 Threads, Up to 4.60 GHz, 12MB Intel Smart Cache)",
+          "RAM: 16GB LPDDR5 4800MHz (onboard)",
+          "SSD: 1TB M.2 PCIe NVMe SSD",
+          "GPU: Intel UHD Graphics",
+          "Display: 16 inch QHD+ (2560x1600), 16:10, 120Hz, 300nits, Anti-Glare, ComfortView Plus",
+          "Battery: 6 Cell, 86 Wh, integrated",
+          "Weight: 1.9 kg",
+          "Color: Silver - Nhôm",
+          "OS: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 17200000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Dell",
+        "description": {
+          "overview": "Dell Inspiron 16 Plus 7630 Core i5-13420H | RAM 16GB | SSD 1TB | 16 inch QHD+ (2560x1600) 300Nits 120Hz | Silver - New Fullbox là một trong những dòng laptop văn phòng cao cấp nhất hiện nay của Dell, được yêu thích bởi thiết kế sang trọng, màn hình sắc nét và hiệu năng mạnh mẽ. Với sự nâng cấp đáng kể về cấu hình, đặc biệt là bộ vi xử lý Intel Core i5-13420H, thiết bị này có thể đáp ứng mọi nhu cầu từ công việc văn phòng hàng ngày đến các tác vụ đồ họa phức tạp. Đây chắc chắn là một sản phẩm đáng cân nhắc cho những ai đang tìm kiếm một chiếc laptop đa năng, bền bỉ và có hiệu suất vượt trội."
+        }
+      },
+      {
+        "title": "ASUS Vivobook Pro 15 OLED Q543M",
+        "specs": [
+          "CPU: Intel Core Ultra 9 185H (16 Cores / 22 Threads, Turbo 5.10 GHz, 24MB Intel Smart Cache) with Intel AI Boost",
+          "RAM: 24GB DDR5 (8GB Onboard + 1 Slot)",
+          "SSD: 2TB M.2 NVMe PCIe 4.0 SSD (2x M.2 2280 PCIe 4.0x4)",
+          "GPU: NVIDIA GeForce RTX 3050 6GB GDDR6",
+          "Display: 15.6-inch FHD (1920x1080) OLED, 0.2ms, 60Hz, 500nits HDR, 100% DCI-P3, VESA DisplayHDR True Black 600, PANTONE Validated, Glossy, 1.07 billion colors, 84% screen-to-body ratio",
+          "Battery: 75WHrs, 4S1P, 4-cell Li-ion",
+          "Weight: 1.9 kg",
+          "Color: Earl Gray",
+          "OS: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 27400000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Asus",
+        "description": {
+          "overview": "Asus Vivobook Pro Q543MJ (2024) | Core Ultra 9 185H | RAM 24GB | SSD 2TB | RTX 3050 6GB | 15.6 inch OLED FullHD | New 100% Fullbox là một trong những mẫu laptop cao cấp được Asus giới thiệu với những cải tiến vượt bậc. Đồng thời đây là dòng laptop đa dụng, tập trung vào đồ họa và sáng tạo nội dung, phù hợp cho cả nhu cầu văn phòng cao cấp đáp ứng hoàn hảo nhu cầu từ học tập, làm việc đến giải trí."
+        }
+      },
+      {
+        "title": "Asus Vivobook S 15 (Q5507)",
+        "specs": [
+          "CPU: Snapdragon X Plus X1P 42 100 (30MB Cache, lên tới 3.2GHz, 8 nhân, 8 luồng)",
+          "RAM: 16GB LPDDR5X onboard",
+          "SSD: 512GB M.2 NVMe PCIe 4.0 SSD",
+          "GPU: Qualcomm Adreno GPU",
+          "Display: 15.6 inch 3K (2880 x 1620) OLED, 16:9, 0.2 ms, 120Hz, 600 nits, DCI-P3 100%, Glossy, 70% less blue light",
+          "Weight: 1.42 kg",
+          "Battery: 70WHrs",
+          "OS: Windows 11 bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 18900000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Asus",
+        "description": {
+          "overview": "Asus Vivobook S 15 (S5507) là một trong những mẫu laptop đầu tiên được trang bị vi xử lý Snapdragon X Elite của Qualcomm, đánh dấu bước tiến mới trong việc mang kiến trúc ARM vào thế giới laptop Windows. Với thiết kế mỏng nhẹ, màn hình OLED đỉnh cao và thời lượng pin ấn tượng, chiếc laptop này hứa hẹn mang đến trải nghiệm vượt trội cho người dùng văn phòng, sinh viên và cả những ai yêu thích công nghệ AI. Sau đây là đánh giá chi tiết về sản phẩm này."
+        }
+      },
+      {
+        "title": "ASUS Zenbook 14 OLED UX3402ZA",
+        "specs": [
+          "CPU: Intel Core i7-1360P, 12 Cores - 16 Threads, Up to 5.00 GHz, 18MB Intel Smart Cache",
+          "RAM: 16GB LPDDR5 4800MHz onboard",
+          "SSD: 512GB M.2 PCIe NVMe",
+          "GPU: Intel Iris Xe Graphics",
+          "Display: 14.0 inch WQXGA+ (2.5K) OLED, 16:10, 400nits, 600nits HDR peak brightness, 100% DCI-P3, VESA Certified",
+          "Color: Ponder Blue",
+          "OS: Windows 11 bản quyền",
+          "Tình trạng: Mới 100%",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 21300000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Asus",
+        "description": {
+          "overview": "ASUS Zenbook 14 OLED UX3402ZA | Intel Core i7 1360P | RAM 16GB | SSD 512GB | 14.0inch OLED 2.5K | Ponder Blue | NEW 100% Full BOX là chiếc laptop cao cấp dành cho những người yêu cầu sự hoàn hảo trong cả thiết kế và hiệu năng. Với màn hình OLED 2.5K sắc nét, CPU Intel® Core™ i7 thế hệ 13 mạnh mẽ, RAM 16GB LPDDR5 tốc độ cao và thiết kế siêu mỏng nhẹ chỉ 1.4kg, chiếc máy này mang lại trải nghiệm đỉnh cao từ công việc đến giải trí. Đây chính là lựa chọn lý tưởng cho người dùng hiện đại, cần sự di động và mạnh mẽ trong mọi hoàn cảnh."
+        }
+      },
+      {
+        "title": "ASUS Zenbook AI UX3405M",
+        "specs": [
+          "CPU: Intel Core Ultra 9 185H (16 Cores / 22 Threads, Turbo 5.10 GHz, 24MB Intel Smart Cache) with Intel AI Boost",
+          "RAM: 32GB LPDDR5x 7467MHz (Onboard)",
+          "SSD: 1TB PCIe NVMe M.2 SSD Gen 4",
+          "GPU: Intel Arc Graphics",
+          "Display: 14.0-inch 16:10 3K (2880x1800) Lumina OLED, 600nits, 120Hz, 0.2ms, 100% DCI-P3 (133% sRGB), Gorilla Glass",
+          "Battery: 75Wh (60% trong 49 phút - Sạc nhanh)",
+          "Color: Silver - Nhôm",
+          "Weight: 1.2 kg",
+          "OS: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 25200000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Asus",
+        "description": {
+          "overview": "ASUS Zenbook AI UX3405M là một trong những mẫu laptop cao cấp mới nhất của ASUS, được trang bị công nghệ tiên tiến và thiết kế sang trọng, hướng đến người dùng cần một thiết bị mỏng nhẹ nhưng mạnh mẽ. Với cấu hình ấn tượng bao gồm vi xử lý Intel Core Ultra 9 185H, RAM 32GB, SSD 1TB và màn hình OLED 2.8K 120Hz, chiếc laptop này hứa hẹn mang lại trải nghiệm vượt trội trong cả công việc lẫn giải trí. Dưới đây là bài đánh giá chi tiết về sản phẩm này."
+        }
+      },
+      {
+        "title": "ASUS Vivobook S 14 (Q423) 2025",
+        "specs": [
+          "CPU: Intel Core Ultra 5 Processor 226V (8 Cores / 8 Threads, 8MB Cache, up to 4.5 GHz) with Intel AI Boost NPU up to 40TOPS",
+          "RAM: 16GB LPDDR5X Memory on Package",
+          "SSD: 512GB M.2 NVMe PCIe 4.0 SSD",
+          "GPU: Intel Arc Graphics",
+          "Display: 14.0-inch WUXGA (1920x1200) OLED, 16:10, 60Hz, 600nits HDR, 100% DCI-P3, VESA DisplayHDR True Black 600, Glossy, 70% less blue light",
+          "Battery: 75WHrs, 4S1P, 4-cell Li-ion",
+          "Color: Neutral Black",
+          "Weight: 1.30 kg",
+          "OS: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 16300000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Asus",
+        "description": {
+          "overview": "ASUS Vivobook S 14 (Q423) 2025 là mẫu laptop mới nhất được trang bị bộ vi xử lý Intel Core Ultra 5 226V tích hợp AI Boost, màn hình OLED WUXGA sắc nét, RAM 16GB và SSD tốc độ cao. Thiết kế mỏng nhẹ, thời trang cùng hiệu năng mạnh mẽ phù hợp cho học tập, làm việc và giải trí."
+        }
+      },
+      {
+        "title": "Acer Nitro 5 Tiger AN515-58-52SP",
+        "specs": [
+          "CPU: Intel Core i5-12500H (12 Cores / 16 Threads, Turbo 4.50 GHz, 18MB Intel Smart Cache)",
+          "RAM: 16GB DDR4 3200MHz (2 Slots, Max 32GB) - gồm 8GB gắn sẵn và tặng thêm 1 thanh 8GB",
+          "SSD: 512GB M.2 PCIe NVMe SSD (Max 2TB)",
+          "GPU: NVIDIA GeForce RTX 3050 4GB GDDR6",
+          "Display: 15.6-inch FHD (1920x1080), IPS, 144Hz, SlimBezel, Acer ComfyView LED-backlit TFT LCD",
+          "Tính năng khác: Bàn phím RGB 4 vùng",
+          "Battery: 4-cell, 57.5 Wh",
+          "Color: Obsidian Black",
+          "Weight: 2.50 kg",
+          "OS: Windows bản quyền",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 17900000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Gaming",
+        "description": {
+          "overview": "Laptop Gaming Acer Nitro 5 Tiger AN515-58-52SP Core i5-12500H | RTX 3050 4GB | RAM 16GB | SSD 512GB | 15.6 inch FHD IPS 144Hz | Obsidian Black là một chiếc laptop gaming đẳng cấp với hiệu năng mạnh mẽ và thiết kế ấn tượng, hỗ trợ đắc lực cho mọi nhu cầu giải trí và công việc hàng ngày của người dùng. Với cấu hình mạnh mẽ, hệ thống tản nhiệt hiệu quả, hình ảnh sống động và tính năng đa dạng, Acer Nitro 5 Tiger AN515-58-52SP hứa hẹn mang đến những trải nghiệm sử dụng đỉnh cao nhất. "
+        }
+      },
+      {
+        "title": "Acer Nitro V 15 ANV15-51-51H9",
+        "specs": [
+          "CPU: Intel Core i5-13420H (8 Cores / 12 Threads, Turbo up to 4.60 GHz, 12MB Intel Smart Cache)",
+          "RAM: 16GB DDR5 (2 slots - 8GB + tặng kèm 8GB)",
+          "SSD: 512GB M.2 PCIe NVMe SSD",
+          "GPU: NVIDIA GeForce RTX 4050 6GB GDDR6",
+          "Display: 15.6 inch FHD (1920x1080), 144Hz, IPS, SlimBezel, Acer ComfyView, 45% NTSC, 250 nits",
+          "Battery: 57 Wh Lithium Polymer",
+          "Color: Obsidian Black",
+          "Weight: 2.10 kg",
+          "OS: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 19800000,
+        "oldPrice": 23200000,
+        "discountPercentage": 15,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Gaming",
+        "description": {
+          "overview": "Acer Nitro V 15 ANV15-51-51H9 | Core i5-13420H | RTX 4050 6GB | RAM 16GB | SSD 512GB | 15.6 inch FHD IPS 144Hz | Obsidian Black | New Fullbox là chiếc laptop gaming nổi bật với thiết kế mạnh mẽ, sắc sảo, mang đến sự tự tin và phong cách cho người dùng. Với vẻ ngoài hiện đại và tông màu Obsidian Black đầy cuốn hút, sản phẩm này hứa hẹn là người bạn đồng hành lý tưởng cho những ai đam mê chinh phục các tựa game đỉnh cao. Để hiểu rõ hơn về Acer Nitro V 15 ANV15-51-51H9."
+        }
+      },
+      {
+        "title": "MSI Cyborg 14 A13VF-018US",
+        "specs": [
+          "CPU: Intel Core i7-13620H (10 Cores / 16 Threads, Turbo up to 4.90 GHz, 24MB Intel Smart Cache)",
+          "RAM: 16GB DDR5 4800MHz (2 slots, max 64GB)",
+          "SSD: 512GB M.2 PCIe NVMe SSD",
+          "GPU: NVIDIA GeForce RTX 4060 8GB GDDR6",
+          "Display: 14 inch FHD+ (1920x1200), 144Hz, IPS-Level, 45% NTSC, 65% sRGB",
+          "Battery: 3 cell, 53.5 Whr",
+          "Color: Translucent Black",
+          "Weight: 1.6 kg",
+          "OS: Windows bản quyền",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 23500000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Gaming",
+        "description": {
+          "overview": "MSI Cyborg 14 A13VF-018US | Intel Core i7-13620H | RAM 16GB | SSD 512GB | RTX 4060 8GB | 14 inch FHD+ 144Hz IPS | New 100%, câu trả lời hoàn hảo cho câu hỏi tìm kiếm một chiếc laptop gaming mạnh mẽ, thiết kế đậm chất hiện đại và hiệu suất đỉnh cao. Trang bị bộ vi xử lý Intel® Core™ i7 thế hệ thứ 13, card đồ họa NVIDIA GeForce RTX 4060 và màn hình 144Hz siêu mượt, chiếc laptop này không chỉ chinh phục mọi tựa game đỉnh cao mà còn hỗ trợ tối ưu cho công việc sáng tạo nội dung. Hãy cùng khám phá ngay để biết vì sao MSI Cyborg 14 A13VF là lựa chọn lý tưởng cho bạn!"
+        }
+      },
+      {
+        "title": "Acer Predator Helios Neo 16 PHN16-72-93Q8",
+        "specs": [
+          "CPU: Intel Core i9-14900HX (24 Cores / 32 Threads, Turbo up to 5.80 GHz, 36MB Intel Smart Cache)",
+          "RAM: 16GB DDR5 5200MHz (Max 64GB)",
+          "SSD: 1TB M.2 NVMe Gen 4x4",
+          "GPU: NVIDIA GeForce RTX 4060 8GB GDDR6 140W",
+          "Display: 16-inch WQXGA (2560x1600), 16:10, IPS, 180Hz, 500 nits, 100% sRGB, 100% DCI-P3",
+          "MUX Switch hỗ trợ tăng hiệu năng chơi game",
+          "Battery: 4-cell, 90 Wh",
+          "Weight: 2.6 kg",
+          "OS: Windows 11 bản quyền",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 29900000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Gaming",
+        "description": {
+          "overview": "Bước vào năm 2024, Acer Predator Helios Neo 16 PHN16-72-93Q8 | Intel Core i9-14900HX | RTX 4060 8GB | RAM 16GB | SSD 1TB | 16 inch WQXGA (2560x1600) 180Hz IPS - New 100% Fullbox (2024) nổi lên như một biểu tượng của sức mạnh công nghệ dành cho những người yêu thích sự đổi mới. Được thiết kế dành cho game thủ đam mê trải nghiệm chân thực và các nhà sáng tạo nội dung chuyên nghiệp, chiếc laptop này hội tụ tất cả những gì bạn cần: hiệu năng vượt trội, thiết kế hiện đại và giá trị sử dụng bền bỉ. Thuộc phân khúc tầm trung-cao cấp, đây không chỉ là một thiết bị, mà còn là tuyên ngôn về phong cách và đẳng cấp công nghệ"
+        }
+      },
+      {
+        "title": "Dell Gaming G16 7630",
+        "specs": [
+          "CPU: Intel Core i9-13900HX (24 Cores / 32 Threads, Turbo up to 5.40 GHz, 36MB Cache)",
+          "RAM: 32GB DDR5 4800 MHz (2 Slots)",
+          "SSD: 2TB M.2 PCIe NVMe Gen4 x4",
+          "GPU: NVIDIA GeForce RTX 4070 8GB GDDR6",
+          "Display: 16 inch QHD+ (2560 x 1600), WVA, 240Hz, 300 nits, Anti-glare, 100% DCI-P3",
+          "Keyboard: Bàn phím cơ Cherry RGB từng phím",
+          "Battery: 6-cell, 86 Whr, Lithium-ion",
+          "Weight: 2.87 kg",
+          "OS: Windows 11 bản quyền",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 39900000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Gaming",
+        "description": {
+          "overview": "Dell Gaming G16 7630 Core i9-13900HX | RAM 32GB | SSD 2TB | RTX 4070 8GB | 16 inch QHD+ (2560 x 1600) 240Hz  - New Fullbox 100% là một lựa chọn xuất sắc cho những người dùng đam mê gaming và công việc đòi hỏi sự mạnh mẽ và linh hoạt từ một chiếc laptop. Với cấu hình mạnh mẽ, thiết kế tối ưu và các tính năng tiên tiến như tản nhiệt hiệu quả, màn hình chất lượng, máy đảm bảo đáp ứng đầy đủ các yêu cầu của người dùng với hiệu suất cao và trải nghiệm người dùng tốt nhất."
+        }
+      },
+      {
+        "title": "HP EliteBook 630 G11",
+        "specs": [
+          "CPU: Intel Core Ultra 5 125U (12 cores / 14 threads, up to 4.3GHz, 12MB L3 cache)",
+          "RAM: 16GB DDR5 5600MHz",
+          "SSD: 1TB M.2 NVMe",
+          "GPU: Intel Graphics",
+          "Display: 13.3 inch WUXGA (1920x1200), IPS, anti-glare, narrow bezel, 300 nits, 45% NTSC",
+          "Color: Silver",
+          "Tình trạng: Mới 100%",
+          "OS: Windows bản quyền",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 18300000,
+        "oldPrice": 22900000,
+        "discountPercentage": 20,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop HP",
+        "description": {
+          "overview": "HP EliteBook 630 G11 | Intel® Core Ultra 5 125U | RAM 16GB | SSD 1TB | 13.3 inch FHD+ (1920x1200) IPS | Sliver | New 100% Fullbox là sự kết hợp hoàn hảo giữa thiết kế thanh lịch và hiệu năng mạnh mẽ. Được trang bị vi xử lý Intel Core UltrP 5 125U, RAM 16GB và SSD 1TB, đây là lựa chọn lý tưởng cho công việc và giải trí."
+        }
+      },
+      {
+        "title": "HP OmniBook X 14 inch (2024)",
+        "specs": [
+          "CPU: Snapdragon X Elite X1E-78-100 (12 Cores, Up to 3.4GHz, 45 TOPS NPU)",
+          "RAM: 16GB LPDDR5x 8448MHz",
+          "SSD: 1TB M.2 PCIe NVMe",
+          "GPU: Qualcomm Adreno",
+          "Display: 14 inch 2.2K (2240 x 1400), IPS, Touch, Low Blue Light, 300 nits, 100% sRGB",
+          "Weight: 1.34 kg",
+          "OS: Windows 11 Home 24H2",
+          "Bảo hành: 12 tháng",
+          "Tình trạng: New Fullbox 100%"
+        ],
+        "price": 21300000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop HP",
+        "description": {
+          "overview": "HP OmniBook X 2024 trang bị vi xử lý Snapdragon X Elite mạnh mẽ, RAM LPDDR5x tốc độ cao, SSD 1TB cùng màn hình cảm ứng 2.2K sắc nét. Thiết kế nhẹ, mỏng, phù hợp cho người dùng yêu thích sự hiện đại và hiệu năng vượt trội."
+        }
+      },
+      {
+        "title": "HP Zbook Fury 17 G7",
+        "specs": [
+          "CPU: Intel® Xeon® W-10885M (8 Cores/16 Threads, Turbo 5.30 GHz, 16MB Intel® Smart Cache)",
+          "RAM: 32GB DDR4 SDRAM 2666MHz (4 Slot | Max 128GB)",
+          "SSD: 512GB M.2 PCIe NVMe",
+          "GPU: Intel UHD Graphics P630 (Integrated)",
+          "Display: 17.3 inch FHD (1920x1080), IPS, eDP anti-glare, WLED-backlit, ambient light sensor, 300 nits, 72% Color Gamut",
+          "Weight: 2.97 kg",
+          "OS: Windows 10 Pro bản quyền",
+          "Tình trạng: NEW REF FULLBOX",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 15500000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop HP",
+        "description": {
+          "overview": "HP Zbook Fury 17 G7 Xeon-10885M | RAM 32GB | SSD 512GB | 17.3 inch FHD (1920x1080) IPS là một chiếc laptop mạnh mẽ và đa dụng, được thiết kế để đáp ứng mọi nhu cầu của người dùng chuyên nghiệp. Từ hiệu năng mạnh mẽ của CPU Intel® Xeon® W-10885M đến card đồ họa UHD Graphics P630 tích hợp, máy đảm bảo khả năng xử lý đa nhiệm mượt mà và hiệu quả."
+        }
+      },
+      {
+        "title": "HP 15-fd0095wm",
+        "specs": [
+          "CPU: Intel® Core™ i5-1235U (10 Cores / 12 Threads, Up to 4.40 GHz, 12MB Intel® Smart Cache)",
+          "RAM: 16GB (2x8GB) DDR4 3200MHz dual-channel",
+          "SSD: 256GB M.2 PCIe NVMe",
+          "GPU: Intel® Iris® Xe Graphics",
+          "Display: 15.6 inch FHD (1920x1080), IPS, micro-edge, 300 nits, 62.5% sRGB, 60Hz, Anti-glare",
+          "Battery: 3-cell, 41 Wh Li-ion polymer",
+          "Weight: 1.59 kg",
+          "Color: Silver",
+          "OS: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 11900000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop HP",
+        "description": {
+          "overview": "HP 15-fd0095wm là một mẫu laptop phổ thông thuộc phân khúc tầm trung, được thiết kế để đáp ứng nhu cầu làm việc, học tập và giải trí cơ bản. Với mức giá thường dao động quanh 300-400 USD (tùy thị trường), đây là một lựa chọn đáng cân nhắc cho người dùng cần một chiếc máy tính xách tay giá rẻ nhưng vẫn đủ mạnh mẽ cho các tác vụ hằng ngày."
+        }
+      },
+      {
+        "title": "HP ProBook 440 G11",
+        "specs": [
+          "CPU: Intel® Core™ Ultra 5 125H (14 Cores / 18 Threads, Turbo 4.50 GHz, 18MB Intel® Smart Cache)",
+          "RAM: 16GB DDR5 5600MHz (2 Slot | Max 32GB)",
+          "SSD: 512GB M.2 PCIe NVMe",
+          "GPU: Intel® ARC Graphics",
+          "Display: 14.0 inch FHD+ (1920x1200), IPS, narrow bezel, anti-glare, 300 nits, 45% NTSC",
+          "Battery: 3-cell, 48 Whr Polymer",
+          "Weight: 1.398 kg",
+          "Color: Silver - Nhôm",
+          "OS: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 tháng"
+        ],
+        "price": 17900000,
+        "oldPrice": 22000000,
+        "discountPercentage": 18.6,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop HP",
+        "description": {
+          "overview": "HP ProBook 440 G11 Core Ultra 5 125H | RAM 16GB | SSD 512GB | 14 inch FHD+ (1920x1200) IPS | Sliver | New Fullbox là chiếc laptop văn phòng hiện đại, mạnh mẽ và đầy linh hoạt, được thiết kế dành riêng cho những ai tìm kiếm sự cân bằng hoàn hảo giữa hiệu năng và tính di động. Với vi xử lý Intel Core Ultra 5 125H, màn hình 14 inch FHD+ IPS sắc nét, cùng thiết kế mỏng nhẹ, tinh tế, đây là người bạn đồng hành lý tưởng trong công việc và cuộc sống hàng ngày."
+        }
+      },
+      {
+        "title": "Lenovo Legion 5 Pro (2024) R9000P",
+        "specs": [
+          "CPU: AMD Ryzen™ 9 7945HX (16 Cores / 32 Threads, 2.50 GHz upto 5.40 GHz)",
+          "RAM: 16GB DDR5 5600MHz (Maximum 64GB)",
+          "SSD: 1TB M.2 NVMe Gen 4x4",
+          "GPU: NVIDIA® GeForce RTX™ 4060 8GB GDDR6 (140W)",
+          "Display: 16.0 inch WQXGA (2560x1600) IPS, 500nits, 240Hz, 100% DCI-P3, Dolby Vision, HDR 400, Free-Sync, G-Sync, DC dimmer",
+          "Tính năng: MUX Switch",
+          "OS: Windows 11 Home bản quyền vĩnh viễn",
+          "Color: Glacier White",
+          "Tình trạng: MỚI 100%",
+          "Bảo hành: 12 Tháng"
+        ],
+        "price": 33000000,
+        "oldPrice": 37500000,
+        "discountPercentage": 12.0,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Lenovo",
+        "description": {
+          "overview": "Lenovo Legion 5 Pro 2024 là chiếc laptop gaming mạnh mẽ sở hữu Ryzen 9 7945HX, RTX 4060 cùng màn hình QHD+ 240Hz siêu mượt, thiết kế Glacier White nổi bật, phù hợp cho cả chơi game và công việc sáng tạo."
+        }
+      },
+      {
+        "title": "Lenovo Legion 5 R7000 AHP9 (Model 2024)",
+        "specs": [
+          "CPU: AMD Ryzen™ 7 8745H (8 Cores / 16 Threads, Turbo 4.90 GHz, 8MB L2 / 16MB L3 Cache)",
+          "RAM: 16GB (8x2) DDR5 5600MHz",
+          "SSD: 512GB M.2 PCIe NVMe",
+          "GPU: NVIDIA® GeForce RTX™ 4060 8GB GDDR6",
+          "Display: 15.6 inch FHD (1920x1080), IPS, 144Hz, 300nits, 100% sRGB, Anti-glare, LED backlight",
+          "Pin: 4-cell battery (60WH)",
+          "Trọng lượng: 2.3 kg",
+          "Color: Storm Grey",
+          "OS: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 Tháng"
+        ],
+        "price": 23000000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Lenovo",
+        "description": {
+          "overview": "Lenovo Legion 5 R7000 AHP9 (Model 2024) Ryzen 7 8745H | RTX 4060 8GB | RAM 16GB | SSD 512GB | 15.6 inch FHD (1920x1080) 144Hz - New Fullbox 100% là một chiếc laptop gaming ấn tượng với sự kết hợp hoàn hảo giữa thiết kế tinh tế, hiệu năng mạnh mẽ và khả năng tản nhiệt tối ưu. Với bộ vi xử lý AMD Ryzen 7 8745H, card đồ họa RTX 4060 cùng màn hình FHD 144Hz, máy đáp ứng tốt cho mọi nhu cầu chơi game cũng như làm việc nặng, mang đến trải nghiệm mượt mà và tối ưu."
+        }
+      },
+      {
+        "title": "Lenovo ThinkBook 16 G6+ IMH (2024)",
+        "specs": [
+          "CPU: Intel® Core™ Ultra 9 185H (16 Cores / 22 Threads, Turbo 5.10 GHz, 24MB Intel® Smart Cache)",
+          "RAM: 32GB DDR5 5600MHz (Maximum 64GB)",
+          "SSD: 1TB M.2 PCIe NVMe",
+          "GPU: Intel® Arc™ Graphics",
+          "Display: 16.0 inch 3.2K (3200x1200) IPS, 16:10, 165Hz, 100% DCI-P3, 100% sRGB, EyeSafe TÜV RHEINLAND",
+          "Pin: 85Wh",
+          "Trọng lượng: 1.9 kg (Cả sạc)",
+          "OS: Windows 11 Home",
+          "Tình trạng: MỚI 100%",
+          "Bảo hành: 12 Tháng"
+        ],
+        "price": 26300000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Lenovo",
+        "description": {
+          "overview": "Lenovo ThinkBook 16 G6+ IMH (2024) trang bị Intel Core Ultra 9-185H cực mạnh, RAM 32GB và màn hình 3.2K sắc nét với tần số quét 165Hz. Đây là lựa chọn tuyệt vời cho người dùng sáng tạo nội dung và làm việc chuyên nghiệp."
+        }
+      },
+      {
+        "title": "Lenovo ThinkBook X AI (2024)",
+        "specs": [
+          "CPU: Intel® Core™ Ultra 9 185H (16 Cores / 22 Threads, Turbo 5.10 GHz, 24MB Intel® Smart Cache)",
+          "RAM: 32GB LPDDR5x 8400MHz (Onboard)",
+          "SSD: 1TB M.2 PCIe NVMe",
+          "GPU: Intel® Arc™ Graphics",
+          "Display: 13.5 inch, 2.8K (2880x1920), 3:2, IPS, Touch, 500nits, 120Hz, 100% sRGB",
+          "Pin: 4 cell 74Wh",
+          "Màu sắc: Luna Gray (Xám)",
+          "Trọng lượng: 1.14kg",
+          "OS: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 Tháng"
+        ],
+        "price": 29000000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Lenovo",
+        "description": {
+          "overview": "Lenovo ThinkBook X AI 2024 là một sự lựa chọn đáng cân nhắc trong phân khúc laptop cao cấp, được thiết kế để đáp ứng mọi nhu cầu của người dùng hiện đại. Với sức mạnh của vi xử lý Intel® Core™ Ultra 9 185H, màn hình chất lượng cao 2.8K IPS cùng với công nghệ cảm ứng tiên tiến cùng các tính năng bảo mật an toàn, chiếc laptop này hứa hẹn mang đến trải nghiệm làm việc và giải trí vượt trội."
+        }
+      },
+      {
+        "title": "Lenovo Legion Pro 5 Y9000P IRX9 (2024)",
+        "specs": [
+          "CPU: Intel® Core™ i9-14900HX (24 Cores / 32 Threads, Turbo 5.80 GHz, 36MB Intel® Smart Cache)",
+          "RAM: 16GB DDR5 5600MHz (2 Slot | Max 64GB)",
+          "SSD: 1TB M.2 PCIe NVMe",
+          "GPU: NVIDIA® GeForce RTX™ 4060 8GB GDDR6 (140W)",
+          "Display: 16 inch WQXGA (2560x1600), IPS, 500nits, Anti-glare, 16:10, 100% sRGB, 240Hz",
+          "Pin: Li-Polymer 80Wh",
+          "Trọng lượng: 2.5 kg",
+          "Hệ điều hành: Windows bản quyền",
+          "Tình trạng: New Fullbox 100%",
+          "Bảo hành: 12 Tháng"
+        ],
+        "price": 36500000,
+        "oldPrice": null,
+        "discountPercentage": null,
+        "image": "",
+        "stock": 10,
+        "category": "Laptop Lenovo",
+        "description": {
+          "overview": "Lenovo Legion Pro 5 Y9000P IRX9 (2024) là chiếc laptop gaming cao cấp với sức mạnh từ Intel Core i9 Gen 14 và GPU RTX 4060, phù hợp cho game thủ, lập trình viên, nhà thiết kế đồ họa và người dùng chuyên nghiệp yêu cầu hiệu năng mạnh mẽ và màn hình QHD+ 240Hz siêu mượt."
+        }
+      }       
+]

@@ -1,0 +1,12 @@
+thiếu chat bot
+thiếu opt về đăng ký đăng nhập 
+thiếu gửi mã về gmail người dùng khi đăng ký
+thiếu điều chỉnh trạng thái order ở trang admin
+chống spam 
+profile người dùng và admin
+trang admin phải quản lý trang comment 
+chưa sort comment và order ở admin
+ở khách hàng trong trang admin phần tìm kiếm 
+ 	
+
+

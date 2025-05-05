@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Apple MacBook Air M2 ",
+      "specs": [
+        "CPU: Apple M2 ( 8‑Core CPU / 10‑Core GPU )",
+        "Màn hình: 13.6 ( 2560 x 1664 ) | Liquid Retina FHD webcam",
+        "RAM : 16GB",
+        "Ổ cứng: 512GB SSD"    
+      ],
+      "price": 27990000,
+      "oldPrice": 29790000,
+      "discountPercentage": 6,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Macbook",
+      "description": {
+      "overview": "Apple MacBook Air M2 là dòng laptop siêu mỏng nhẹ với hiệu năng mạnh mẽ và thiết kế tinh tế được nhiều người dùng lựa chọn. Màn hình Liquid Retina 13.6 inch sắc nét và sự tối ưu của macOS giúp MacBook Air M4 trở thành gợi ý lý tưởng cho người dùng hiện đại. Hãy cùng tìm hiểu thêm các thông tin chi tiết về sản phẩm đến từ thương hiệu Apple này nhé!"     
+      }
+  },
+
+  {
+    "title": "Apple MacBook Air M4 ",
+      "specs": [
+        "CPU: Apple M4 ( 8‑Core CPU / 10‑Core GPU )",
+        "Màn hình: 13.6 ( 2560 x 1664 ) | Liquid Retina FHD webcam",
+        "RAM : 16GB",
+        "Ổ cứng: 512GB SSD"    
+      ],
+      "price": 26990000,
+      "oldPrice": 29890000,
+      "discountPercentage": 3,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Macbook",
+      "description": {
+      "overview": "MacBook Air M4 13.6 là dòng laptop siêu mỏng nhẹ với hiệu năng mạnh mẽ và thiết kế tinh tế được nhiều người dùng lựa chọn. Sở hữu chip M4 thế hệ mới, RAM 16GB và SSD 256GB, chiếc MacBook này không chỉ đảm bảo khả năng xử lý nhanh chóng mà còn giúp bạn trải nghiệm mượt mà cho công việc lẫn giải trí. Đặc biệt, màn hình Liquid Retina 13.6 inch sắc nét và sự tối ưu của macOS giúp MacBook Air M4 trở thành gợi ý lý tưởng cho người dùng hiện đại. Hãy cùng tìm hiểu thêm các thông tin chi tiết về sản phẩm đến từ thương hiệu Apple này nhé!"     
+      }
+  },
+
+  {
+    "title": "Apple MacBook Air M3 ",
+      "specs": [
+        "CPU: Apple M3 ( 8‑Core CPU / 10‑Core GPU )",
+        "Màn hình: 13.6 ( 2560 x 1664 ) | Liquid Retina FHD webcam",
+        "RAM : 16GB",
+        "Ổ cứng: 512GB SSD"    
+      ],
+      "price": 36990000,
+      "oldPrice": 37990000,
+      "discountPercentage": 2,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Macbook",
+      "description": {
+      "overview": "MacBook Air M3 13.6 là dòng laptop siêu mỏng nhẹ với hiệu năng mạnh mẽ và thiết kế tinh tế được nhiều người dùng lựa chọn. Sở hữu chip M3 thế hệ mới, RAM 16GB và SSD 256GB, chiếc MacBook này không chỉ đảm bảo khả năng xử lý nhanh chóng mà còn giúp bạn trải nghiệm mượt mà cho công việc lẫn giải trí. Đặc biệt, màn hình Liquid Retina 13.6 inch sắc nét và sự tối ưu của macOS giúp MacBook Air M4 trở thành gợi ý lý tưởng cho người dùng hiện đại. Hãy cùng tìm hiểu thêm các thông tin chi tiết về sản phẩm đến từ thương hiệu Apple này nhé!"     
+      }
+  },
+
+  {
+    "title": "Apple MacBook Air M1 ",
+      "specs": [
+        "CPU: Apple M1 ( 8-Core CPU / 7-Core GPU )",
+        "Màn hình: 13.3 ( 2560 x 1600 ) | Retina HD webcam",
+        "RAM : 8GB",
+        "Ổ cứng: 256GB SSD"    
+      ],
+      "price": 17590000,
+      "oldPrice": 28990000,
+      "discountPercentage": 39,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Macbook",
+      "description": {
+      "overview": "Laptop MacBook Air 2020 13 inch là dòng laptop cao cấp đến từ thương hiệu Apple nổi tiếng. Chiếc Macbook Air thế hệ mới sở hữu vẻ đẹp tinh tế cùng hiệu năng mạnh mẽ đến từ con chip Apple M1. Đây sẽ là một chiếc laptop phù hợp với nhiều người dùng trong công việc và giải trí!"     
+      }
+  },
+
+  {
+    "title": "Apple MacBook Pro 16inch 2019",
+      "specs": [
+        "CPU: 6‑core 9th‑generation Intel Core i7 processor, Turbo Boost up to 4.5GHz",
+        "Màn hình: 16-inch Retina with True Tone (3072x1920)",
+        "RAM :  16GB",
+        "Ổ cứng: 512GB SSD"    
+      ],
+      "price": 17590000,
+      "oldPrice": 28990000,
+      "discountPercentage": 39,
+      "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+      "stock": 8,
+      "category": "Macbook",
+      "description": {
+      "overview": "MacBook Pro 16 inch 2019 tuy là dòng Macbook cũ, nhưng vẫn được người dùng vô cùng săn đón, nhờ việc sở hữu màn hình rộng và hiệu năng mạnh mẽ. "     
+      }
+  }
+]

@@ -1,0 +1,96 @@
+[
+{
+  "title": "Máy tính để bàn HP Dell Inspiron 3030SFF",
+    "specs": [
+      "CPU: Intel Core i5 14400 - 10 nhân 16 luồng (Up to 4.7GHz)",
+      "Card đồ họa: Intel UHD Graphics 770",
+      "RAM : 1x 16GB - 2 khe DDR5 DIMM tối đa 64GB",
+      "Ổ cứng: 512GB SSD "    
+    ],
+    "price": 23590000,
+    "oldPrice": 25590000,
+    "discountPercentage": 4,
+    "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+    "stock": 8,
+    "category": "Máy tính Dell",
+    "description": {
+    "overview": "Dell Inspiron 3030 S (SFFI53013W1-16G-512G) là một máy tính để bàn nhỏ gọn được thiết kế cho các nhiệm vụ hàng ngày. Với thiết kế mỏng nhẹ, nó dễ dàng phù hợp với bất kỳ không gian làm việc nào. Máy tính này được trang bị bộ xử lý Intel Core để đảm bảo hiệu suất đáng tin cậy."     
+    }
+},
+ 
+{
+  "title": "Máy tính để bàn HP Dell Optiplex 7020 Tower",
+    "specs": [
+      "CPU: 14th Gen Intel® Core™ i3-14100 ",
+      "Card đồ họa: Intel® UHD Graphics 730",
+      "RAM : 8GB DDR5 (1*8GB)",
+      "Ổ cứng: 512GB PCIe NVMe SSD "    
+    ],
+    "price": 12590000,
+    "oldPrice": 15590000,
+    "discountPercentage": 20,
+    "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+    "stock": 8,
+    "category": "Máy tính Dell",
+    "description": {
+    "overview": "Dell Optiplex 7020 Tower 42OT702001 là một máy tính để bàn nhỏ gọn được thiết kế cho các nhiệm vụ hàng ngày. Với thiết kế thiết kế chắc chắn, máy dễ dàng phù hợp với bất kỳ không gian làm việc nào. Máy tính này được trang bị bộ xử lý Intel Core để đảm bảo hiệu suất đáng tin cậy."     
+    }
+},
+
+{
+  "title": "Máy tính để bàn HP Dell XPS 8950",
+    "specs": [
+      "CPU: Intel Core i7-12700 ",
+      "Card đồ họa: Nvidia GTX 1660Ti 6GB",
+      "RAM : 16GB (2x 8GB) DDR5 4400MHz",
+      "Ổ cứng: 512GB PCIe M.2 Class 40 SSD + 1TB 7200RPM HDD "    
+    ],
+    "price": 40590000,
+    "oldPrice": 43590000,
+    "discountPercentage": 8,
+    "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+    "stock": 8,
+    "category": "Máy tính Dell",
+    "description": {
+    "overview": "Máy tính để bàn Dell XPS trông có phần đơn giản hơn với lớp vỏ kim loại bóng bẩy màu xám. Được trang bị những bộ vi xử lý và card đồ họa mới nhất, Dell XPS mang hiệu suất chơi game vượt trội. Đáp ứng được cả những tựa game VR vốn được mệnh danh là sát thủ phần cứng. "     
+    }
+},
+
+{
+  "title": "Máy tính để bàn HP Dell Vostro 3020",
+    "specs": [
+      "CPU: Intel Core i7-13700 ",
+      "Card đồ họa: Onboard",
+      "RAM : 8GB DDR4 3200Mhz (1*8GB)",
+      "Ổ cứng: 512GB PCIe NVMe SSD "    
+    ],
+    "price": 19590000,
+    "oldPrice": 19590000,
+    "discountPercentage": 0,
+    "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+    "stock": 8,
+    "category": "Máy tính Dell",
+    "description": {
+    "overview": "Máy tính để bàn Dell Vostro 3020 trông có phần đơn giản hơn với lớp vỏ kim loại bóng bẩy màu xám. Được trang bị những bộ vi xử lý và card đồ họa mới nhất, Dell XPS mang hiệu suất chơi game vượt trội. Đáp ứng được cả những tựa game VR vốn được mệnh danh là sát thủ phần cứng. "     
+    }
+},
+
+{
+  "title": "Máy tính để bàn HP Dell Vostro 3910",
+    "specs": [
+      "CPU: Core i3-12100",
+      "Card đồ họa: Onboard",
+      "RAM : 8GB DDR4 3200Mhz",
+      "Ổ cứng: 256GB SSD "    
+    ],
+    "price": 11590000,
+    "oldPrice": 11590000,
+    "discountPercentage": 0,
+    "image": "https://ext.same-assets.com/3001562581/3154747494.jpeg",
+    "stock": 8,
+    "category": "Máy tính Dell",
+    "description": {
+    "overview": "Máy tính để bàn Dell Vostro 3910 trông có phần đơn giản hơn với lớp vỏ kim loại bóng bẩy màu xám. Được trang bị những bộ vi xử lý và card đồ họa mới nhất, Dell XPS mang hiệu suất chơi game vượt trội. Đáp ứng được cả những tựa game VR vốn được mệnh danh là sát thủ phần cứng. "     
+    }
+}
+]
