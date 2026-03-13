@@ -16,8 +16,14 @@ import reviewRoutes from "./src/routes/reviewRoute.js";
 // import homeRoutes from "./routes/homeRoute.js";
 
 const app = express();
-app.use(cors());
+// app.use(cors());
 // app.use(json());
+app.use(cors({
+  origin: [
+    "https://computer-store-wannhis-projects.vercel.app"
+  ],
+  credentials: true
+}));
 
 // Tăng giới hạn kích thước payload
 app.use(express.json({ limit: "1mb" })); // Giới hạn 10MB
