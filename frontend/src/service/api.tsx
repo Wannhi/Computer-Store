@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const REACT_APP_API_URL = "http://localhost:5000/api"
+// const REACT_APP_API_URL = "http://localhost:5000/api"
+const REACT_APP_API_URL = "https://computer-store-513c.onrender.com/api"
 // const REACT_APP_API_URL = "https://apicauvang.vuinhungbuon.site/api";
 // https://cauvang.huynhvannga.id.vn/
 // const REACT_APP_API_URL = "https://apicauvang.huynhvannga.id.vn/api";
