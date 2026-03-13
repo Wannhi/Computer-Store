@@ -4,13 +4,21 @@ import User from "../models/User.js";
 
 const connectDB = async () => {
   try {
-    await mongoose.connect('mongodb://127.0.0.1:27017/ecommerce');
-    console.log('✅ MongoDB connected successfully');
+    const mongoURI = process.env.MONGO_URI;
 
-    // Gọi hàm tạo admin mặc định sau khi kết nối DB thành công
+    if (!mongoURI) {
+      throw new Error("MONGO_URI is not defined in environment variables");
+    }
+
+    await mongoose.connect(mongoURI);
+
+    console.log("✅ MongoDB connected successfully");
+
+    // Tạo admin mặc định
     await createDefaultAdmin();
+
   } catch (err) {
-    console.error('❌ MongoDB connection error:', err.message);
+    console.error("❌ MongoDB connection error:", err.message);
     process.exit(1);
   }
 };
